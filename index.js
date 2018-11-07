@@ -10,7 +10,7 @@ class BoardMember {
   }
 
   doCharity() {
-    returns "I like to help people."
+    returns "I like to help people.";
   }
 }
 
