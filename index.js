@@ -6,6 +6,10 @@ class BoardMember {
 }
 
   veto() {
-    console.log(`Hello, my name is ${this.name}`);
+    returns 'No, I disagree';
   }
+}
+
+class Ceo extends BoardMember {
+
 }
