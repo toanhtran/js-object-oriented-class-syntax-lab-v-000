@@ -6,15 +6,15 @@ class BoardMember {
 }
 
   veto() {
-    return 'No, I disagree';
+    return 'No, I disagree'
   }
 
   doCharity() {
-    return "I like to help people.";
+    return "I like to help people."
   }
 
   releasePressStatement() {
-    return "You will see great things from Scuber.";
+    return "You will see great things from Scuber."
   }
 
   sayHi() {
