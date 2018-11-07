@@ -5,11 +5,12 @@ class BoardMember {
   this.training = training;
 }
 
-  veto() {
+  function veto() {
     returns 'No, I disagree';
   }
 }
 
 class Ceo extends BoardMember {
+  hireEmployee
 
 }
