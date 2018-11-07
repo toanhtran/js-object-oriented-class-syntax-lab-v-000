@@ -6,11 +6,15 @@ class BoardMember {
 }
 
   veto() {
-    returns 'No, I disagree';
+    return 'No, I disagree';
   }
 
   doCharity() {
-    returns "I like to help people.";
+    return "I like to help people.";
+  }
+
+  releasePressStatement() {
+    return
   }
 }
 
