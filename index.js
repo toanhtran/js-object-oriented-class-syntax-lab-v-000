@@ -8,6 +8,10 @@ class BoardMember {
   veto() {
     returns 'No, I disagree';
   }
+
+  doCharity() {
+    returns "I like to help people."
+  }
 }
 
 class Ceo extends BoardMember {
